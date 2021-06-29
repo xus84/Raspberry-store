@@ -1,0 +1,10 @@
+.product {
+    text-align: center;
+    margin-top: 15px;
+    width: 33%;
+    height: 50px;
+}
+
+.brand {
+    font-weight: bold;
+}
