@@ -1,4 +1,4 @@
-export default [
+const items = [
   {
     id: 1,
     brand: 'Raspberry1',
@@ -18,6 +18,8 @@ export default [
     quantity: 6,
   }
 ]
+
+export default items;
   
 
 
